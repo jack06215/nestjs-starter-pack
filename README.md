@@ -49,7 +49,7 @@ erDiagram
 - Runtime environment: Node.js 18.13
 - Web server framework: NestJS 10.3.1
 - Database: PostgreSQL
-- ORM library and migrations tool: TypeORM 0.3.20
+- ORM library and migrations tool: MikroORM
 - Testing framework: Jest 29.7.0
 - API documentation: Swagger
  
